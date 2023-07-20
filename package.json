@@ -1,0 +1,23 @@
+{
+  "name": "padroes-de-projeto-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DielmeRamosGomes/padroes-de-projeto-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DielmeRamosGomes/padroes-de-projeto-ts/issues"
+  },
+  "homepage": "https://github.com/DielmeRamosGomes/padroes-de-projeto-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
